@@ -73,7 +73,7 @@ I'm currently building my foundation to become a **strong Software Engineer who 
 
 - 💼 LinkedIn: **https://www.linkedin.com/in/anil-choudhari-18b27a388/**
 - 📧 Email: **anilschoudhari1@gmail.com**
-- 🧑‍💻 https://leetcode.com/u/Anilschoudhari1/
+- 🧑‍💻 LeetCode: **https://leetcode.com/u/Anilschoudhari1/**
 - 🌐 Portfolio: **--**
 
 ⭐ Feel free to explore my repositories and follow my journey.
